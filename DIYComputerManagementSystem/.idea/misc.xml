@@ -7,10 +7,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/computer-parts-service/pom.xml" />
         <option value="$PROJECT_DIR$/customer-service/pom.xml" />
-        <option value="$PROJECT_DIR$/order-service/pom.xml" />
         <option value="$PROJECT_DIR$/purchase-service/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Administrator-service/pom.xml" />
+        <option value="$PROJECT_DIR$/CustomerOrder-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Manufacturer-service/pom.xml" />
       </list>
     </option>
   </component>

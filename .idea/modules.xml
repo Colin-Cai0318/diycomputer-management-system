@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/Administrator-service/Administrator-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/Administrator-service/Administrator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/CustomerOrder-service/CustomerOrder-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/CustomerOrder-service/CustomerOrder-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/DIYComputerManagementSystem.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/DIYComputerManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/Manufacturer-service/Manufacturer-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/Manufacturer-service/Manufacturer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/PurchaseOrder-service/PurchaseOrder-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/PurchaseOrder-service/PurchaseOrder-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/common-service/common-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/computerParts-service/computerParts-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/computerParts-service/computerParts-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIYComputerManagementSystem/gateway/gateway.iml" filepath="$PROJECT_DIR$/DIYComputerManagementSystem/gateway/gateway.iml" />
+    </modules>
+  </component>
+</project>

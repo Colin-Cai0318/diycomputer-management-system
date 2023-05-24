@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/Administrator-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/Administrator-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/CustomerOrder-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/CustomerOrder-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/Manufacturer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/Manufacturer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/PurchaseOrder-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/PurchaseOrder-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/common-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/computerParts-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/computerParts-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/customer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DIYComputerManagementSystem/src/main/resources" charset="UTF-8" />
+    <file url="file://E:/Maven3.8.6/apache-maven-3.8.6/repository/org/springframework/boot/spring-boot-starter-parent/2.7.12/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
