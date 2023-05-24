@@ -9,10 +9,13 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>computer-parts-service</module>
+        <module>common-service</module>
+        <module>Administrator-service</module>
+        <module>computerParts-service</module>
         <module>customer-service</module>
-        <module>order-service</module>
-        <module>purchase-service</module>
+        <module>CustomerOrder-service</module>
+        <module>Manufacturer-service</module>
+        <module>PurchaseOrder-service</module>
     </modules>
 
     <properties>
